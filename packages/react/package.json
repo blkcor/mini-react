@@ -1,0 +1,16 @@
+{
+	"name": "react",
+	"version": "1.0.0",
+	"description": "react public method",
+	"module": "index.ts",
+	"scripts": {},
+	"keywords": [
+		"mini-react",
+		"react"
+	],
+	"author": "blkcor",
+	"license": "ISC",
+	"dependencies": {
+		"shared": "workspace:*"
+	}
+}

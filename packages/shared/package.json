@@ -1,0 +1,11 @@
+{
+	"name": "shared",
+	"version": "1.0.0",
+	"description": "some help functions and type define",
+	"keywords": [
+		"mini-react",
+		"shared"
+	],
+	"author": "",
+	"license": "ISC"
+}
