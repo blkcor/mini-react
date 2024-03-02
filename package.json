@@ -9,6 +9,7 @@
 		"commitlint": "commitlint --edit",
 		"build:dev": "rimraf dist && rollup --bundleConfigAsCjs --config scripts/rollup/react.config.js"
 	},
+	"type": "module",
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
